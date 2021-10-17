@@ -23,4 +23,4 @@
 
       3: venv/Scripts/Activate.ps1 -> to activate virtual environment
 
-      4:backend/manage.py runserver
+      4: backend/manage.py runserver
