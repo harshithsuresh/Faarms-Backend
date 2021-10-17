@@ -1,0 +1,20 @@
+Tech Assignment 
+-----------------------------------
+
+Create a Django project to list out students with following features
+	
+	* Front end should show list of students with sorting options
+	* Sorting should be based on FirstName and Date Of Admission
+	* Admin panel should have option to import and export students from/to csv or excel files
+	* Database should be PostgreSql and students id generation should be FirstName and LastName initials and timestamp for example AG2323212121212  where AG are initials for student Amresh Giri
+	
+	* API should follow OpenApi 3.0 specifications
+	* Students table should have following attributes -
+	    - Id
+		- Registration Number
+		- FirstName
+		- LastName
+		- Gender
+		- Date Of Admission
+		- Created Date
+		- Last Modified Date
