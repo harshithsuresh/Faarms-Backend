@@ -13,6 +13,8 @@
                     c: firstName for ascending 
                     
                     d: -firstName for descending 
+                    
+       Frontend: ReactJS,axios,Tailwind
 
 # Getting Started 
 
@@ -23,3 +25,7 @@
       3: venv/Scripts/Activate.ps1 -> to activate virtual environment
 
       4: backend/manage.py runserver
+      
+      5: Import studentList in Admin panel
+      
+      5: frontend/npm start
