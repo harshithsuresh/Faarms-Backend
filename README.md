@@ -26,6 +26,6 @@
 
       4: backend/manage.py runserver
       
-      5: Import studentList in Admin panel
+      5: Import studentList in Admin panel (sample.xlsx)
       
       6: frontend/npm start
