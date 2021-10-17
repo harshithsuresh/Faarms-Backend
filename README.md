@@ -1,5 +1,4 @@
 # Faarms-Backend
-# Faarms APP
 
     Technologies:
     
