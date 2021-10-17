@@ -28,4 +28,4 @@
       
       5: Import studentList in Admin panel
       
-      5: frontend/npm start
+      6: frontend/npm start
